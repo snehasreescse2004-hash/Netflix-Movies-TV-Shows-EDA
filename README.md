@@ -53,8 +53,5 @@ This project helped me improve my understanding of data analysis and visualizati
 
 ## Author
 
-Created as part of my Python and Pandas EDA assignment.
+Created by Sneha Sree S. as part of the Python and Pandas EDA assignment.
 
-Author
-
-Created as part of my Python and Pandas EDA assignment.
